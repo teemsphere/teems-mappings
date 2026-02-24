@@ -19,8 +19,6 @@ teems-mappings/
     └── GTAPv7/
 ```
 
-The **database version** (GTAPv9/10/11) determines the origin elements — different releases cover different countries and sectors. The **data format** (GTAPv6/GTAPv7) determines the set names used in the model Tablo file.
-
 ## File format
 
 Each mapping is a two-column CSV where the first column contains origin (disaggregated) set elements and the second column (`mapping`) contains destination (aggregated) elements:
