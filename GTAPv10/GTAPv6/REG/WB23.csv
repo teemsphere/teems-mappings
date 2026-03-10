@@ -1,142 +1,142 @@
 H1,mapping
-alb,Southern Europe
-are,Western Asia
-arg,South America
-arm,Western Asia
-aus,Australia and New Zealand
-aut,Western Europe
-aze,Western Asia
-bel,Western Europe
-ben,Western Africa
-bfa,Western Africa
-bgd,Southern Asia
-bgr,Eastern Europe
-bhr,Western Asia
-blr,Eastern Europe
-bol,South America
-bra,South America
-brn,South-Eastern Asia
-bwa,Southern Africa
-can,Northern America
-che,Western Europe
-chl,South America
-chn,Eastern Asia
-civ,Western Africa
-cmr,Middle Africa
-col,South America
-cri,Central America
-cyp,Western Asia
-cze,Eastern Europe
-deu,Western Europe
-dnk,Northern Europe
-dom,Caribbean
-ecu,South America
-egy,Northern Africa
-esp,Southern Europe
-est,Northern Europe
-eth,Eastern Africa
-fin,Northern Europe
-fra,Western Europe
-gbr,Northern Europe
-geo,Western Asia
-gha,Western Africa
-gin,Western Africa
-grc,Southern Europe
-gtm,Central America
-hkg,Eastern Asia
-hnd,Central America
-hrv,Southern Europe
-hun,Eastern Europe
-idn,South-Eastern Asia
-ind,Southern Asia
-irl,Northern Europe
-irn,Southern Asia
-isr,Western Asia
-ita,Southern Europe
-jam,Caribbean
-jor,Western Asia
-jpn,Eastern Asia
-kaz,Central Asia
-ken,Eastern Africa
-kgz,Central Asia
-khm,South-Eastern Asia
-kor,Eastern Asia
-kwt,Western Asia
-lao,South-Eastern Asia
-lka,Southern Asia
-ltu,Northern Europe
-lux,Western Europe
-lva,Northern Europe
-mar,Northern Africa
-mdg,Eastern Africa
-mex,Central America
-mlt,Southern Europe
-mng,Eastern Asia
-moz,Eastern Africa
-mus,Eastern Africa
-mwi,Eastern Africa
-mys,South-Eastern Asia
-nam,Southern Africa
-nga,Western Africa
-nic,Central America
-nld,Western Europe
-nor,Northern Europe
-npl,Southern Asia
-nzl,Australia and New Zealand
-omn,Western Asia
-pak,Southern Asia
-pan,Central America
-per,South America
-phl,South-Eastern Asia
-pol,Eastern Europe
-pri,Caribbean
-prt,Southern Europe
-pry,South America
-qat,Western Asia
-rou,Eastern Europe
-rus,Eastern Europe
-rwa,Eastern Africa
-sau,Western Asia
-sen,Western Africa
-sgp,South-Eastern Asia
-slv,Central America
-svk,Eastern Europe
-svn,Southern Europe
-swe,Northern Europe
-tgo,Western Africa
-tha,South-Eastern Asia
-tjk,Central Asia
-tto,Caribbean
-tun,Northern Africa
-tur,Western Asia
-twn,Eastern Asia
-tza,Eastern Africa
-uga,Eastern Africa
-ukr,Eastern Europe
-ury,South America
-usa,Northern America
-ven,South America
-vnm,South-Eastern Asia
-xac,Southern Africa
-xca,Central America
-xcb,Caribbean
-xcf,Middle Africa
-xea,Eastern Asia
-xec,Eastern Africa
-xee,Eastern Europe
-xef,Western Europe
-xer,Southern Europe
-xna,Northern America
-xnf,Northern Africa
-xoc,PolyMicroMela
-xsa,Southern Asia
-xsc,Southern Africa
-xse,South-Eastern Asia
-xsm,South America
-xsu,Central Asia
-xtw,Australia and New Zealand
-xwf,Western Africa
-xws,Western Asia
-zaf,Southern Africa
-zmb,Eastern Africa
-zwe,Eastern Africa
+alb,southern_europe
+are,western_asia
+arg,south_america
+arm,western_asia
+aus,australia_and_new_zealand
+aut,western_europe
+aze,western_asia
+bel,western_europe
+ben,western_africa
+bfa,western_africa
+bgd,southern_asia
+bgr,eastern_europe
+bhr,western_asia
+blr,eastern_europe
+bol,south_america
+bra,south_america
+brn,south-eastern_asia
+bwa,southern_africa
+can,northern_america
+che,western_europe
+chl,south_america
+chn,eastern_asia
+civ,western_africa
+cmr,middle_africa
+col,south_america
+cri,central_america
+cyp,western_asia
+cze,eastern_europe
+deu,western_europe
+dnk,northern_europe
+dom,caribbean
+ecu,south_america
+egy,northern_africa
+esp,southern_europe
+est,northern_europe
+eth,eastern_africa
+fin,northern_europe
+fra,western_europe
+gbr,northern_europe
+geo,western_asia
+gha,western_africa
+gin,western_africa
+grc,southern_europe
+gtm,central_america
+hkg,eastern_asia
+hnd,central_america
+hrv,southern_europe
+hun,eastern_europe
+idn,south-eastern_asia
+ind,southern_asia
+irl,northern_europe
+irn,southern_asia
+isr,western_asia
+ita,southern_europe
+jam,caribbean
+jor,western_asia
+jpn,eastern_asia
+kaz,central_asia
+ken,eastern_africa
+kgz,central_asia
+khm,south-eastern_asia
+kor,eastern_asia
+kwt,western_asia
+lao,south-eastern_asia
+lka,southern_asia
+ltu,northern_europe
+lux,western_europe
+lva,northern_europe
+mar,northern_africa
+mdg,eastern_africa
+mex,central_america
+mlt,southern_europe
+mng,eastern_asia
+moz,eastern_africa
+mus,eastern_africa
+mwi,eastern_africa
+mys,south-eastern_asia
+nam,southern_africa
+nga,western_africa
+nic,central_america
+nld,western_europe
+nor,northern_europe
+npl,southern_asia
+nzl,australia_and_new_zealand
+omn,western_asia
+pak,southern_asia
+pan,central_america
+per,south_america
+phl,south-eastern_asia
+pol,eastern_europe
+pri,caribbean
+prt,southern_europe
+pry,south_america
+qat,western_asia
+rou,eastern_europe
+rus,eastern_europe
+rwa,eastern_africa
+sau,western_asia
+sen,western_africa
+sgp,south-eastern_asia
+slv,central_america
+svk,eastern_europe
+svn,southern_europe
+swe,northern_europe
+tgo,western_africa
+tha,south-eastern_asia
+tjk,central_asia
+tto,caribbean
+tun,northern_africa
+tur,western_asia
+twn,eastern_asia
+tza,eastern_africa
+uga,eastern_africa
+ukr,eastern_europe
+ury,south_america
+usa,northern_america
+ven,south_america
+vnm,south-eastern_asia
+xac,southern_africa
+xca,central_america
+xcb,caribbean
+xcf,middle_africa
+xea,eastern_asia
+xec,eastern_africa
+xee,eastern_europe
+xef,western_europe
+xer,southern_europe
+xna,northern_america
+xnf,northern_africa
+xoc,polymicromela
+xsa,southern_asia
+xsc,southern_africa
+xse,south-eastern_asia
+xsm,south_america
+xsu,central_asia
+xtw,australia_and_new_zealand
+xwf,western_africa
+xws,western_asia
+zaf,southern_africa
+zmb,eastern_africa
+zwe,eastern_africa
