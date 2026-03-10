@@ -20,7 +20,7 @@ frs,mnfcs
 fsh,food
 gas,mnfcs
 gdt,mnfcs
-gro,grains
+gro,crops
 hht,hht
 i_s,mnfcs
 ins,ins
@@ -30,7 +30,7 @@ mil,food
 mvh,mnfcs
 nfm,mnfcs
 nmm,mnfcs
-oap,food
+oap,livestock
 obs,obs
 ocr,crops
 ofd,food
@@ -46,7 +46,7 @@ otp,otp
 oxt,mnfcs
 p_c,mnfcs
 pcr,food
-pdr,grains
+pdr,crops
 pfb,crops
 ppp,mnfcs
 rmk,livestock
@@ -60,7 +60,7 @@ v_f,crops
 vol,food
 wap,mnfcs
 whs,whs
-wht,grains
+wht,crops
 wol,livestock
 wtp,wtp
 wtr,wtr
