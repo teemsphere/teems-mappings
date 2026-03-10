@@ -75,7 +75,9 @@ Internal mappings are referenced by name (without the `.csv` extension) in `ems_
 
 ## External (custom) mappings
 
-Custom mappings can be supplied as a path to a two-column CSV file in the same format as the files in this repository. The file path is passed in place of the mapping name:
+Custom mappings can be supplied as a path to a two-column CSV file, data frame, or data frame extension (e.g., tibble, data table) in the same format as the files in this repository. Column names are irrelevant -- first column will be read as the original element while the mapping is taken from the second column. The file path (or data frame object) is passed in place of the mapping name:
+
+as a CSV file:
 
 ```r
 data <- ems_data(
@@ -83,6 +85,20 @@ data <- ems_data(
   par_input = "path/to/gsdfpar.har",
   set_input = "path/to/gsdfset.har",
   REG       = "path/to/custom_REG_mapping.csv",
+  COMM      = "macro_sector",
+  ACTS      = "macro_sector",
+  ENDW      = "labor_agg"
+)
+```
+
+or where df_REG is a data frame:
+
+```r
+data <- ems_data(
+  dat_input = "path/to/gsdfdat.har",
+  par_input = "path/to/gsdfpar.har",
+  set_input = "path/to/gsdfset.har",
+  REG       = df_REG,
   COMM      = "macro_sector",
   ACTS      = "macro_sector",
   ENDW      = "labor_agg"
