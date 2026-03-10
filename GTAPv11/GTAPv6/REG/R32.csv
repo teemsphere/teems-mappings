@@ -22,7 +22,7 @@ caf,ssa_l
 can,can_xna
 che,efta
 chl,lam_m
-chn,chn_hkg_xea
+chn,chn_hkg
 civ,ssa_l
 cmr,ssa_l
 cod,ssa_l
@@ -119,7 +119,7 @@ srb,eeu
 svk,eu12_h
 svn,eu12_h
 swe,eu15
-swz,zaf_swz_xsc
+swz,saf
 syr,mea_m
 tcd,ssa_l
 tgo,ssa_l
@@ -140,7 +140,7 @@ vnm,oas_cpa
 xac,ssa_m
 xca,lam_l
 xcb,lam_m
-xea,chn_hkg_xea
+xea,oas_l
 xec,ssa_l
 xee,eeu_fsu
 xef,efta
@@ -149,13 +149,13 @@ xna,can_xna
 xnf,naf
 xoc,oas_l
 xsa,pak
-xsc,zaf_swz_xsc
+xsc,saf
 xse,oas_l
 xsm,lam_m
 xsu,cas
 xtw,oas_l
 xwf,ssa_l
 xws,mea_m
-zaf,zaf_swz_xsc
+zaf,saf
 zmb,ssa_l
 zwe,ssa_l
