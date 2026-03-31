@@ -1,4 +1,4 @@
-COMM,mapping
+H2,mapping
 afs,svces
 atp,svces
 b_t,b_t
@@ -47,7 +47,7 @@ oxt,mnfcs
 p_c,mnfcs
 pcr,pcr
 pdr,pdr
-pfb,pfb
+pfb,mnfcs
 ppp,mnfcs
 rmk,rmk
 ros,svces
@@ -61,6 +61,6 @@ vol,vol
 wap,mnfcs
 whs,svces
 wht,wht
-wol,wol
+wol,mnfcs
 wtp,svces
 wtr,svces
