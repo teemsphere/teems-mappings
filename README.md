@@ -55,10 +55,11 @@ The `AR5`, `WB7`, and `WB23` mappings are derived from the [countrycode](https:/
 | Name | Elements | Description |
 |------|----------|-------------|
 | `macro_sector` | crops, food, livestock, mnfcs, svces | Broad five-sector aggregation |
-| `agriculture` | ~15 sectors | Detailed agricultural breakdown |
+| `food` | ~15 sectors | Detailed food and agricultural breakdown |
+| `energy` | ~20 sectors | Detailed energy sector breakdown |
 | `manufacturing` | ~15 sectors | Detailed manufacturing breakdown |
 | `services` | ~10 sectors | Detailed services breakdown |
-| `medium` | ~30 sectors | Intermediate aggregation *(GTAPv10/v11 only)* |
+| `medium` | ~30 sectors | Intermediate aggregation |
 | `full` | All | No aggregation |
 
 ### Endowments (`ENDW_COMM`, `ENDW`)
