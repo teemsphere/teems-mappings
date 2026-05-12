@@ -47,7 +47,7 @@ oxt,mnfcs
 p_c,mnfcs
 pcr,pcr
 pdr,pdr
-pfb,mnfcs
+pfb,crops
 ppp,mnfcs
 rmk,rmk
 ros,svces
@@ -61,6 +61,6 @@ vol,vol
 wap,mnfcs
 whs,svces
 wht,wht
-wol,mnfcs
+wol,livestock
 wtp,svces
 wtr,svces

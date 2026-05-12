@@ -30,7 +30,7 @@ mil,food
 mvh,mvh
 nfm,nfm
 nmm,nmm
-oap,food
+oap,livestock
 obs,svces
 ocr,crops
 ofd,food
@@ -40,7 +40,7 @@ ome,ome
 omf,omf
 omt,food
 osd,crops
-osg,osg
+osg,svces
 otn,otn
 otp,svces
 oxt,oxt
@@ -59,7 +59,7 @@ trd,svces
 v_f,crops
 vol,food
 wap,wap
-whs,whs
+whs,svces
 wht,crops
 wol,livestock
 wtp,svces
